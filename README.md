@@ -14,7 +14,7 @@ Koraci za pokretanje (backend):
 Za frontend:
 -Lociramo se u folder client (cd client) i ponavljamo postupak instalacije dependency-a uz pomoć komande npm install
 -Nakon instalacije pokrećemo komandu npm start koja pokreće naš frontend na portu 3000
-http://localhost:3001 bi se trebao automatski pokrenuti, ali ako ne, dovoljno je ukucati ovaj navedeni path u browser
+http://localhost:3000 bi se trebao automatski pokrenuti, ali ako ne, dovoljno je ukucati ovaj navedeni path u browser
 
 Baza podataka se spaja na moj MongoDB Atlas i podešena da se svi mogu spojiti 
 
