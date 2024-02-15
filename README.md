@@ -9,7 +9,7 @@ Koraci za pokretanje (backend):
 -Otvoriti webtravel_311 folder u Visual Studio Code
 -U jednomterminalu locirati se u folder server (cd server)
 -Izvršiti komandu npm install" kako bi se instalirali svi potrebni dependency i paketi
--Kada se instalacija završi treba pokrenuti komandu npm start i tada bi nam se trebala spojiti baza podataka i dići server na port 3001
+-Kada se instalacija završi treba pokrenuti komandu npm start i tada bi nam se trebala spojiti baza podataka i dići server na port 3000
 
 Za frontend:
 -Lociramo se u folder client (cd client) i ponavljamo postupak instalacije dependency-a uz pomoć komande npm install
