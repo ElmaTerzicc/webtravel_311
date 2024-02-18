@@ -24,5 +24,6 @@ Kada se bude pokretao server, u slučaju da bude pisalo da je port već u upotre
 -ukucati u terminal taskkill /F /IM node.exe
 -npm install
 -npm start
+Još jedna napomena: file .env se nije mogao prebaciti na github jer piše da je hidden ali u projektu je svakako sadržan.
 
 Hvala!
